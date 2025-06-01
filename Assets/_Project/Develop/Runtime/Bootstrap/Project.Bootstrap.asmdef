@@ -1,0 +1,21 @@
+{
+    "name": "Project.Bootstrap",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4",
+        "GUID:a03d41b27b3a25243a758b4d7576c873",
+        "GUID:4bfe42b756ed875459a61c641ebda78a",
+        "GUID:a541d5da6e72a0e4cb9def443548eef0",
+        "GUID:88866e24335f52941a358f5154fc69ca",
+        "GUID:4888100cd34f0f246ad4ef39cd839e01"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
